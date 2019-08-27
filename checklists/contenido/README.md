@@ -14,7 +14,11 @@ La siguiente es una lista de las condiciones que debe cumplir un sitio web para 
 
 - Logo (cambiar en móvil si es necesario)
 - Datos de contacto: lugar, teléfono, correo
+- Navegación
+	- Subnavegación (muestra Marcas o Categorías)
 - Call to Action
+
+*Un buen ejemplo de un header completo es el de [Contyquim](https://contyquim.com)*
 
 ## Vistas
 
@@ -28,11 +32,11 @@ Todos los sitios **sin excepción** deben contepmplar las siguientes vistas:
 - Nosotros / Quiénes somos / Conócenos
 - Servicios
 - Landings de servicios, utilizar el [Cuestionario para Landing Page](#)
-- *Partial* de contacto (no vista completa)
+- *Partial* de contacto (no vista completa) [(Ejemplo)](https://contyquim.com)
 	- Datos de contacto
 	- Formulario de contacto: Nombre, Correo, Teléfono, Mensaje
 	- API Google Maps adecuado al *look and feel* del sitio web: un marker por cada sucursal del cliente. 
-- Blog
+- Blog [(Ejemplo)](https://exelair.com.mx/blog)
 	- Main
 		- Jumbotron/slider con entradas destacadas o más recientes
 		- Ambos *Partials*
@@ -44,7 +48,6 @@ Todos los sitios **sin excepción** deben contepmplar las siguientes vistas:
 		- Imagen destacada
 		- Información del artículo: autor, fecha, categoría...
 		- Contenido
-		- [Disqus](https://disqus.com/)
 		- Artículos relacionados
 		- Sidebar
 	- *Partials*
@@ -55,15 +58,7 @@ Todos los sitios **sin excepción** deben contepmplar las siguientes vistas:
 
 ### Productos
 
-Los sitios web que contengan información específica sobre productos requerirán una estructura más amplia, por lo que las siguientes vistas son necesarias:
-
-- *Partials*
-	- Sidebar
-		- Filtros por categoría y/o marca y/o industria
-		- Buscador
-	- Grid
-		- Producto: Imagen destacada, Título, categoría / marca, precio
-		- Paginación
+Los sitios web que contengan información específica sobre productos requerirán una estructura más amplia (por ejemplo, [Lubrisei](https://lubrisei.com/productos)), por lo que las siguientes vistas son necesarias:
 
 - Productos
 	- Ambos *partials*
@@ -79,6 +74,14 @@ Los sitios web que contengan información específica sobre productos requerirá
 		- Correo
 		- Teléfono
 		- Mensaje
+
+- *Partials*
+	- Sidebar
+		- Filtros por categoría y/o marca y/o industria
+		- Buscador
+	- Grid
+		- Producto: Imagen destacada, Título, categoría / marca, precio
+		- Paginación
 		
 *Además, buscará conseguirse información adicional tan temprano como se pueda en el proceso, con el objetivo de tener Landing Pages para temáticas como __Soporte__, __Garantías__ o __Distribuidores__*
 
@@ -91,3 +94,5 @@ Los sitios web que contengan información específica sobre productos requerirá
 	- Del sitio
 	- De servicios o categorías de productos
 - Datos de contacto: lugar, teléfono, correo
+
+*Un buen ejemplo de un header completo es el de [Lubrisei](https://lubrisei.com)*
