@@ -5,6 +5,7 @@ La siguiente es una lista de las condiciones que debe cumplir un sitio web para 
 ### Índice
 
 [Header](#Header)
+[2. Vistas](#2-Vistas)
 
 ## Header
 
