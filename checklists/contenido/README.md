@@ -2,13 +2,13 @@
 
 La siguiente es una lista de las condiciones que debe cumplir un sitio web para mantener el estándar de calidad de **Brand Industry.** Estas partes deben ser consideradas desde el inicio del proceso, **incluyendo estructura y maquetación**, y deben ser complementadas con los requerimientos específicos de cada cliente.
 
-### Índice
+## Índice
 
-- [Header](#1-Header)
-- [Vistas](#2-Vistas)
-	- [General](#21-General)
-	- [Productos](#22-Productos)
-- [Footer](#3-Footer)
+- [Header](#Header)
+- [Vistas](#Vistas)
+	- [General](#General)
+	- [Productos](#Productos)
+- [Footer](#Footer)
 
 ## Header
 
