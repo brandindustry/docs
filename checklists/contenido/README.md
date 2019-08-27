@@ -4,13 +4,13 @@ La siguiente es una lista de las condiciones que debe cumplir un sitio web para 
 
 ### Índice
 
-1. [Header](#1-Header)
-2. [Vistas](#2-Vistas)
-	1. [General](#21-General)
-	2. [Productos](#22-Productos)
-3. [Footer](#3-Footer)
+- [Header](#1-Header)
+- [Vistas](#2-Vistas)
+	- [General](#21-General)
+	- [Productos](#22-Productos)
+- [Footer](#3-Footer)
 
-## 1. Header
+## Header
 
 - Logo (cambiar en móvil si es necesario)
 - Datos de contacto
@@ -22,11 +22,11 @@ La siguiente es una lista de las condiciones que debe cumplir un sitio web para 
 	- Mostrar/esconder el header al hacer scroll
 	- Hamburguesa animada (móvil)
 
-## 2. Vistas
+## Vistas
 
 Las vistas que requiere un sitio web dependerán del tipo de sitio que se esté desarrollando:
 
-### 2.1 General
+### General
 
 Todos los sitios **sin excepción** deben contepmplar las siguientes vistas:
 
@@ -76,7 +76,7 @@ Todos los sitios **sin excepción** deben contepmplar las siguientes vistas:
 		- Artículos relacionados
 		- [Disqus](https://disqus.com/)
 
-### 2.2 Productos
+### Productos
 
 Los sitios web que contengan información específica sobre productos requerirán una estructura más amplia, por lo que las siguientes vistas son necesarias:
 
@@ -111,7 +111,7 @@ Los sitios web que contengan información específica sobre productos requerirá
 
 *Además, buscará conseguirse información adicional tan temprano como se pueda en el proceso, con el objetivo de tener Landing Pages para temáticas como __Soporte__ o __Distribuidores__*
 
-### 3. Footer
+## Footer
 
 - Logo
 - Párrafo descriptivo de la empresa
