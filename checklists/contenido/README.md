@@ -4,11 +4,11 @@ La siguiente es una lista de las condiciones que debe cumplir un sitio web para 
 
 ### Índice
 
-1.[Header](#1-Header)
-2.[Vistas](#2-Vistas)
-	2.1[General](#2.1-General)
-	2.2[Productos](#2.2-Productos)
-3.[Footer](#3-Footer)
+1. [Header](#1-Header)
+2. [Vistas](#2-Vistas)
+	1. [General](#21-General)
+	2. [Productos](#22-Productos)
+3. [Footer](#3-Footer)
 
 ## 1. Header
 
