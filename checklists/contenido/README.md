@@ -4,8 +4,11 @@ La siguiente es una lista de las condiciones que debe cumplir un sitio web para 
 
 ### Índice
 
-[Header](#Header)
-[2. Vistas](#2-Vistas)
+1.[Header](#1-Header)
+2.[Vistas](#2-Vistas)
+	2.1[General](#2-1-General)
+	2.2[Productos](#2-2-Productos)
+3.[Footer](#3-Footer)
 
 ## Header
 
@@ -38,6 +41,7 @@ Todos los sitios **sin excepción** deben contepmplar las siguientes vistas:
 		- Link a Maps, usando la función *My location* como en [este ejemplo]("https://www.google.com/maps?saddr=My+Location&daddr=CONTYQUIM")
 		- Link para llamada telefónica: `<a href="tel:..."></a>`
 		- Link a correo: `<a href="mailto:..."></a>`
+		- Links a redes sociales
 	- Formulario de contacto
 		- Nombre
 		- Correo
@@ -106,3 +110,16 @@ Los sitios web que contengan información específica sobre productos requerirá
 		- Respuesta en vivo (ajax/axios)
 
 *Además, buscará conseguirse información adicional tan temprano como se pueda en el proceso, con el objetivo de tener Landing Pages para temáticas como __Soporte__ o __Distribuidores__*
+
+### 3. Footer
+
+- Logo
+- Párrafo descriptivo de la empresa
+- Links a redes sociales
+- Navegaciones:
+	- Del sitio
+	- De servicios o categorías de productos
+- Datos de contacto
+	- Link a Maps, usando la función *My location* como en [este ejemplo]("https://www.google.com/maps?saddr=My+Location&daddr=CONTYQUIM")
+	- Link para llamada telefónica: `<a href="tel:..."></a>`
+	- Link a correo: `<a href="mailto:..."></a>`
