@@ -6,11 +6,11 @@ La siguiente es una lista de las condiciones que debe cumplir un sitio web para 
 
 1.[Header](#1-Header)
 2.[Vistas](#2-Vistas)
-	2.1[General](#2-1-General)
-	2.2[Productos](#2-2-Productos)
+	2.1[General](#2.1-General)
+	2.2[Productos](#2.2-Productos)
 3.[Footer](#3-Footer)
 
-## Header
+## 1. Header
 
 - Logo (cambiar en móvil si es necesario)
 - Datos de contacto
