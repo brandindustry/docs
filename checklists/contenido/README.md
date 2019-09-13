@@ -18,7 +18,7 @@ La siguiente es una lista de las condiciones que debe cumplir un sitio web para 
 	- Subnavegación (muestra Marcas o Categorías)
 - Call to Action
 
-*----- Un buen ejemplo de un header completo es el de [Contyquim](https://contyquim.com) -----*
+> Un buen ejemplo de un header completo es el de [Contyquim](https://contyquim.com)
 
 ## Vistas
 
@@ -83,7 +83,7 @@ Los sitios web que contengan información específica sobre productos requerirá
 		- Producto: Imagen destacada, Título, categoría / marca, precio
 		- Paginación
 		
-*Además, buscará conseguirse información adicional tan temprano como se pueda en el proceso, con el objetivo de tener Landing Pages para temáticas como __Soporte__, __Garantías__ o __Distribuidores__*
+>Además, buscará conseguirse información adicional tan temprano como se pueda en el proceso, con el objetivo de tener Landing Pages para temáticas como __Soporte__, __Garantías__ o __Distribuidores__
 
 ## Footer
 
@@ -95,4 +95,4 @@ Los sitios web que contengan información específica sobre productos requerirá
 	- De servicios o categorías de productos
 - Datos de contacto: lugar, teléfono, correo
 
-*----- Un buen ejemplo de un header completo es el de [Lubrisei](https://lubrisei.com).-----*
+> Un buen ejemplo de un header completo es el de [Lubrisei](https://lubrisei.com).
