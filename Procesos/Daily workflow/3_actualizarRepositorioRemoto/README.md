@@ -1,6 +1,6 @@
 # Actualizar repositorio remoto
 
-Procedimiento para actualizar el repositorio remoto con los nuevos cambios .
+Procedimiento para actualizar el repositorio remoto con los cambios hechos al código localmente.
 
 ## Índice
 
@@ -13,7 +13,7 @@ Procedimiento para actualizar el repositorio remoto con los nuevos cambios .
 
 ## Procedimiento
 
-*-- Como ejemplo contemplemos estar trabajando en un slider de fotos para la sección **Home** --*
+> Como ejemplo contemplemos estar trabajando en un slider de fotos para la sección **Home**
 
 1. Una vez probado todo, utiliza `git add .` para agregar los cambios realizados.
 2. Utiliza `git commit -m 'slider home listo'` para fijarlos.

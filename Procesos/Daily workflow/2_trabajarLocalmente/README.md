@@ -1,6 +1,6 @@
 # Trabajar localmente
 
-Procedimiento a seguir para realizar cambios loclamente a un proyecto
+Procedimiento para realizar cambios loclamente a un proyecto.
 
 ## Índice
 
@@ -10,11 +10,11 @@ Procedimiento a seguir para realizar cambios loclamente a un proyecto
 
 ## Requerimientos
 
-- Haber actualizado el repositorio local de acuerdo con la documentación: [Actualizar repositorio local](#).
+- Haber actualizado el repositorio local de acuerdo con la documentación: [Actualizar repositorio local](../1_actualizarRepositorioLocal/README.md).
 
 ## Procedimiento
 
-*-- Como ejemplo contemplemos estar trabajando en un slider de fotos para la sección **Home** --*
+> Como ejemplo contemplemos estar trabajando en un slider de fotos para la sección **Home**
 
 1. Crear una nueva *branch* con un nombre que describa claramente los cambios a realizar. Usando el ejemplo: `git checkout -b slider_home`
 2. Realiza los cambios al código que sean necesarios. Para compilar en tiempo real tus cambios a *js* o *sass*, utiliza el comando `npm run watch`.
@@ -24,4 +24,4 @@ Procedimiento a seguir para realizar cambios loclamente a un proyecto
 
 ## Siguientes pasos
 
-- Procede a actualizar el repositorio remoto siguiendo la documentación: [Actualizar repositorio remoto](#).
+- Procede a actualizar el repositorio remoto siguiendo la documentación: [Actualizar repositorio remoto](../3_actualizarRepositorioRemoto/README.md).
